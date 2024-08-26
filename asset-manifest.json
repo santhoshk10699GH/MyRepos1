@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/santhoshk10699GH/MyRepos1.git/static/css/main.0ebecb83.css",
+    "main.js": "/santhoshk10699GH/MyRepos1.git/static/js/main.3300b537.js",
+    "static/js/453.20952338.chunk.js": "/santhoshk10699GH/MyRepos1.git/static/js/453.20952338.chunk.js",
+    "index.html": "/santhoshk10699GH/MyRepos1.git/index.html",
+    "main.0ebecb83.css.map": "/santhoshk10699GH/MyRepos1.git/static/css/main.0ebecb83.css.map",
+    "main.3300b537.js.map": "/santhoshk10699GH/MyRepos1.git/static/js/main.3300b537.js.map",
+    "453.20952338.chunk.js.map": "/santhoshk10699GH/MyRepos1.git/static/js/453.20952338.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ebecb83.css",
+    "static/js/main.3300b537.js"
+  ]
+}
